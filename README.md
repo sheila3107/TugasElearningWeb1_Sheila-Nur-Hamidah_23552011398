@@ -30,7 +30,7 @@ Tugas1sela/
 │       └── index.blade.php
 └── routes/
     └── web.php          # Tempat pengaturan data menu
-
+```
 
 ## **Footer dan Navbar**
 <img width="960" height="449" alt="image" src="https://github.com/user-attachments/assets/255f33eb-06dc-4d69-af0c-baef4c3fe257"/>
