@@ -32,6 +32,6 @@ Tugas1sela/
     └── web.php          # Tempat pengaturan data menu
 
 ## **Footer dan Navbar**
-<img width="960" height="449" alt="image" src="https://github.com/user-attachments/assets/255f33eb-06dc-4d69-af0c-baef4c3fe257" />
-<img width="960" height="447" alt="image" src="https://github.com/user-attachments/assets/c2e294ab-91b7-466a-a944-7e150d9e87f2" />
-<img width="960" height="449" alt="image" src="https://github.com/user-attachments/assets/957d1d72-841d-4748-ac98-60691bae17d0" />
+<img width="960" height="449" alt="image" src="https://github.com/user-attachments/assets/255f33eb-06dc-4d69-af0c-baef4c3fe257"/>
+<img width="960" height="447" alt="image" src="https://github.com/user-attachments/assets/c2e294ab-91b7-466a-a944-7e150d9e87f2"/>
+<img width="960" height="449" alt="image" src="https://github.com/user-attachments/assets/957d1d72-841d-4748-ac98-60691bae17d0"/>
